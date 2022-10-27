@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: whitesmoke;
+
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+.top{
+    background-color: white;
+    width: 800px;
+    height: 260px;
+    margin: 0px;
+    margin-top: 100px;
+    margin-left: 450px;
+    box-shadow: 100px;
+
+}
+.top h1{
+    margin-left: 30px;
+    font-size: 40px;
+    color: rgb(33, 178, 178);
+    font-family: sans-serif;
+}
+.top h3{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(166, 209, 91);
+    font-family: sans-serif;    
+}
+.top p{
+    margin-top: 25px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: rgb(83, 83, 83);
+    font-family: sans-serif;
+}
+.bottom{
+    background-color: cyan;
+    background-color: rgb(33, 178, 178);
+    display: flex;
+    width: 800px;
+    height: 280px;
+    margin-left: 450px;
+}
+.down{
+    background-color: darkcyan;
+    width: 400px;
+    height: 300px;
+}
+.down h3{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+.down h2{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: antiquewhite;
+    font-family: sans-serif;
+}
+.down p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(83, 83, 83);
+}
+.down button{
+    margin-top: 30px;
+    margin-left: 20px;
+    padding: 10px;
+    width: 240px;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(167, 214, 86);
+
+}
+.below{
+    background-color: rgb(33, 178, 178);
+    width: 400px;
+    height: 300px;
+}
+.below h2{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+.below p{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: rgb(83, 83, 83);
+}
