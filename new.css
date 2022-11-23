@@ -71,8 +71,9 @@ body{
 .down p{
     margin-top: 20px;
     margin-left: 20px;
-    font-size: 25px;
-    color: rgb(83, 83, 83);
+    font-size: 20px;
+    color: rgb(77, 76, 76);
+    font-family: sans-serif;
 }
 .down button{
     margin-top: 30px;
@@ -94,10 +95,12 @@ body{
     margin-top: 20px;
     margin-left: 20px;
     color: white;
+    font-family: sans-serif;
 }
 .below p{
     margin-top: 20px;
     margin-left: 20px;
     font-size: 20px;
     color: rgb(83, 83, 83);
+    font-family: sans-serif;
 }
